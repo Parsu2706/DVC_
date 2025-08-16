@@ -5,7 +5,8 @@ from pathlib import Path
 df = pd.DataFrame([
     {"Name": "ABC", "Age": 10, "City": "NY"},
     {"Name": "XYZ", "Age": 20, "City": "LA"},
-    {"Name": "PQR", "Age": 10, "City": "MX"}
+    {"Name": "PQR", "Age": 10, "City": "MX"} ,
+    {"Name" : "ASD" , "Age" : 10 , "City" :"AB"}
 ])
 
 # Define directory and file path using pathlib
